@@ -45,8 +45,4 @@ Artificial Intelligence | <button class="skill-badge-blue">MLP,</button> <button
 <a href="https://github.com/maliksh7/DeepMAD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
 </a>
-<a href="https://github.com/maliksh7/MALICIOUS-ACTIVITY-DETECTION-USING-BERT">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=MALICIOUS-ACTIVITY-DETECTION-USING-BERT&theme=dark" />
-</a>
 
---
