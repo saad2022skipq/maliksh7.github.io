@@ -25,4 +25,4 @@ is_contact: true
 2. [Twitter](#https://twitter.com/maliksh71)
 3. [Linkedin](#https://www.linkedin.com/in/maliksh7)
 4. [Instagram](#https://www.instagram.com/_bullbat)
-5. [Github](#github.com/maliksh7)
+5. [Github](#https://www.github.com/maliksh7)
