@@ -22,32 +22,31 @@ ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button 
 Cloud AWS        | <button class="skill-badge-blue">Cloud9</button> <button class="skill-badge-blue">CloudWatch</button> <button class="skill-badge-blue">AWS Lambda</button> <button class="skill-badge-blue">EC2</button> <button class="skill-badge-blue">DynamoDB, S3</button> <button class="skill-badge-blue">CodePipeline</button> <button class="skill-badge-blue"> API Gateway</button>
 Artificial Intelligence | <button class="skill-badge-blue">MLP,</button> <button class="skill-badge-blue">LSTMs,</button> <button class="skill-badge-blue">GANs</button> <button class="skill-badge-blue">VAEs</button> <button class="skill-badge-blue">BERT.</button> 
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### 📕 Latest Blog Posts
 
-## Typography
+<!-- BLOG-POST-LIST:START -->
+- [How I implemented Snake and Apple Game using PyGame in Python](https://medium.com/@_bullbat/how-i-implemented-snake-and-apple-game-using-pygame-in-python-dc60e5a314e6)
+- [When to Use MongoDB Rather than MySQL](https://saadmalik7.wordpress.com/2021/06/03/when-to-use-mongodb-rather-than-mysql/)
+- [Python Next](https://saadmalik7.wordpress.com/2021/05/10/python-next/)
+- [All You Need to know about CURL Command](https://saadmalik7.wordpress.com/2019/08/04/all-you-need-to-know-about-curl-command/)
+<!-- BLOG-POST-LIST:END -->
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+➡️ [more blog posts...](http://saadmalik7.wordpress.com/)
 
 ---
 
-Here is a blockquote
+<a href="https://github.com/maliksh7">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide_langs_below=1&theme=dark" />
+</a>
+<a href="https://github.com/maliksh7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Bullbat's github stats"/>
+</a>
+<a href="https://github.com/maliksh7/DeepMAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
+</a>
+<a href="https://github.com/maliksh7/MALICIOUS-ACTIVITY-DETECTION-USING-BERT">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=MALICIOUS-ACTIVITY-DETECTION-USING-BERT&theme=dark" />
+</a>
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+--
