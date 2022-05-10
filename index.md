@@ -22,7 +22,7 @@ ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button 
 Cloud AWS        | <button class="skill-badge-blue">Cloud9</button> <button class="skill-badge-blue">CloudWatch</button> <button class="skill-badge-blue">AWS Lambda</button> <button class="skill-badge-blue">EC2</button> <button class="skill-badge-blue">DynamoDB, S3</button> <button class="skill-badge-blue">CodePipeline</button> <button class="skill-badge-blue"> API Gateway</button>
 Artificial Intelligence | <button class="skill-badge-blue">MLP,</button> <button class="skill-badge-blue">LSTMs,</button> <button class="skill-badge-blue">GANs</button> <button class="skill-badge-blue">VAEs</button> <button class="skill-badge-blue">BERT.</button> 
 
-----------------|-----------------------------
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -36,29 +36,13 @@ Artificial Intelligence | <button class="skill-badge-blue">MLP,</button> <button
 
 ---
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
----
-### Github
+## Github
 
 <a href="https://github.com/maliksh7">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide_langs_below=1&theme=dark" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide_langs_below=1&theme=dark" />
 </a>
 <a href="https://github.com/maliksh7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Bullbat's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Bullbat's github stats"/>
 </a>
 <a href="https://github.com/maliksh7/DeepMAD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
