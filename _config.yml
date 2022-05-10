@@ -1,4 +1,4 @@
-title: Saad here
+title: Saad Hassan
 url: "https://maliksh7.github.io"
 baseurl: ""
 repository: maliksh7/maliksh7.github.io
@@ -11,9 +11,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Blog"
+   link: "saadmalik7.wordpress.com"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Muhammad's Resume(DevOps).pdf"
  - name: "Contact"
    link: "contact"
