@@ -13,6 +13,8 @@ sass:
 nav:
  - name: "Blog"
    link: "saadmalik7.wordpress.com"
+ - name: "Gallery"
+   link: "photos"
  - name: "Resume"
    link: "Muhammad's Resume(DevOps).pdf"
  - name: "Contact"
